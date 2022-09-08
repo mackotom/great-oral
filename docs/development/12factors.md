@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # 12 FACTORS
 
 Les applications d'aujourd'hui sont souvent délivrées en tant que SaaS (software as a service).
