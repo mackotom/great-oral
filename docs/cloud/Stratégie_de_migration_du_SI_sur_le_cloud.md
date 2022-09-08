@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Stratégie de migration du SI sur le Cloud
 
 ## Virtualisation
