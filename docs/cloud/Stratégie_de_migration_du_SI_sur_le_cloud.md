@@ -16,11 +16,13 @@ sidebar_position: 2
 
 * Ressources informatiques partagées et configurables
 
-* Mutualisation de de ressources de stockage et de calcul
+* Mutualisation de ressources de stockage et de calcul
 
 * Mutualisation de la maintenance
 
 * Facturation à l’usage, en fonction des besoins
+
+* Permet aux équipes IT de se concentrer sur des tâches à valeur ajoutée
 
 ## Type de Solutions
 
