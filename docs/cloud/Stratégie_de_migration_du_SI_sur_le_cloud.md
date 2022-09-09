@@ -52,7 +52,7 @@ sidebar_position: 2
 
 * Sécuriser ses systèmes d’information ;
 
-• Réduire la dette technique par l'utilisation des services managés et d’outils d'automatisation proposés par les fournisseurs cloud ;
+* Réduire la dette technique par l'utilisation des services managés et d’outils d'automatisation proposés par les fournisseurs cloud ;
 
 * Rationaliser ses datacenters et ses infrastructures ;
 
@@ -138,26 +138,26 @@ sidebar_position: 2
 
 5. Elaborer une feuille de route cohérente pour la DSI et l’entreprise.
 
-## options de transformation
+## Options de transformation
 
 ![Schéma Options de Transformation](img/grille_accenture.png)
 
 Le plus commun : lift and shift
 Réel avantage en transformant
 
-• Minimum d’efforts :
-    o Lift and shift : est l’action de migrer l’application telle quelle.
-    o Rehost : correspond au « lift and shift » avec un minimum de remédiation du système d’exploitation et des bases de données de l’application.
-• Modification de la couche technique :
-    o Replateform : permet de remplacer le niveau bas de l’application (qui correspond au passage vers PaaS).
-    o Redeploy : correspond au redéploiement de l’application sur une nouvelle plateforme technique.
-• Réécriture de l’application :
-    o Rearchitect : touche au code de l’application, avec un passage en Continuous Integration and Continuous Delivery (CICD) par exemple (sorte d’équivalent aussi du refactoring ou du rewriting).
-• Remplacement :
-    o Replace : correspond à la mise en place d’une alternative.
-    o Repurchasing : correspond aussi à l’achat de nouvelles solutions sur le marché.
-• Conservation (retain) équivaut au maintien de l’application avec une consolidation des environ-nements.
-• Décommissionnement (retire) : permet de se séparer de l’application.
+* Minimum d’efforts :
+    * Lift and shift : est l’action de migrer l’application telle quelle.
+    * Rehost : correspond au « lift and shift » avec un minimum de remédiation du système d’exploitation et des bases de données de l’application.
+* Modification de la couche technique :
+    * Replateform : permet de remplacer le niveau bas de l’application (qui correspond au passage vers PaaS).
+    * Redeploy : correspond au redéploiement de l’application sur une nouvelle plateforme technique.
+* Réécriture de l’application :
+    * Rearchitect : touche au code de l’application, avec un passage en Continuous Integration and Continuous Delivery (CICD) par exemple (sorte d’équivalent aussi du refactoring ou du rewriting).
+* Remplacement :
+    * Replace : correspond à la mise en place d’une alternative.
+    * Repurchasing : correspond aussi à l’achat de nouvelles solutions sur le marché.
+* Conservation (retain) équivaut au maintien de l’application avec une consolidation des environ-nements.
+* Décommissionnement (retire) : permet de se séparer de l’application.
 
 
 ## Mutation des équipes IT
