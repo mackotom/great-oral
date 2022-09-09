@@ -28,15 +28,15 @@ sidebar_position: 2
 
 * IaaS : Infrastructure as a Service
 
-![Schéma IaaS](img/virtualisation.jpg)
+![Schéma IaaS](img/iaas.png)
 
 * Paas : Plateform as a Service
 
-![Schéma PaaS](img/virtualisation.jpg)
+![Schéma PaaS](img/paas.png)
 
 * SaaS : Software as a Service
 
-![Schéma SaaS](img/virtualisation.jpg)
+![Schéma SaaS](img/saas.png)
 
 ## Pourquoi migrer
 
@@ -140,7 +140,7 @@ sidebar_position: 2
 
 ## options de transformation
 
-![Schéma Options de Transformation](img/grille_accenture.jpg)
+![Schéma Options de Transformation](img/grille_accenture.png)
 
 Le plus commun : lift and shift
 Réel avantage en transformant
@@ -184,7 +184,7 @@ Réel avantage en transformant
 
 * Garantir la sécurité des données hors-site
 
-![Schéma des métiers](img/schema_metiers.jpg)
+![Schéma des métiers](img/schema_metiers.png)
 
 ### Type de métiers
 
