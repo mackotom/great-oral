@@ -20,3 +20,8 @@ Objectifs gouvernementaux pour le secteur de la cybersécurité.
 
 - un pirate a pris le controle de plusieurs services utilisés par Uber, dont sa messagerie interne Slack, son compte AWS, son système de suivi de dépenses
 - en 2016 Uber avait déjà payé une rançon de 100 000 dollars suite à un piratage
+
+[des-hackers-suppriment-les-donnees-du-groupe-hotelier-intercontinental-pour-s-amuser.N2045342](https://www.usine-digitale.fr/article/des-hackers-suppriment-les-donnees-du-groupe-hotelier-intercontinental-pour-s-amuser.N2045342)
+
+Le groupe hotelier intercontinental se fait supprimer toutes ses données de réservation de chambre.
+En 2016, suite à un hack ayant permi la diffusion de données de carte de crédit de sa clientèle, le groupe avait déjà du payer en dommage et intérêt la somme de 1.5 millions de dollars.

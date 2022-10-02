@@ -13,3 +13,6 @@ sidebar_position: 50
 Un ingénieur de google a récemment publié un article affirmant qu'une Ia conversationnelle de Google était consciente.
 Celui-ci, rédigé par une docteur en philosophie de l'IA, s'oppose à cette affirmation en argumentant en quoi le fonctionnement même de cet IA provoque cette confusion tout en ne lui permettant pas d'être effectivement consciente.
 
+[chine-un-robot-nomme-pdg-dune-societe-de-jeux-videos-4135402](https://www.europe1.fr/international/chine-un-robot-nomme-pdg-dune-societe-de-jeux-videos-4135402)
+
+La société chinoise Net Dragon remplace le PDG de son entreprise par une IA.
