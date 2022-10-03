@@ -6,6 +6,12 @@ sidebar_position: 50
 
 ## 2022
 
+### 08
+
+[bas-rhin-clestra-place-en-redressement-judiciaire-20220801](https://www.lefigaro.fr/flash-eco/bas-rhin-clestra-place-en-redressement-judiciaire-20220801)
+
+700 salariés au chomage suite à une cyber-attaque
+
 ### 09
 
 [les-jetons-individuels-de-connexion-ou-token-access](https://www.cnil.fr/fr/les-jetons-individuels-de-connexion-ou-token-access)

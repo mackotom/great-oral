@@ -202,7 +202,7 @@ Google Maps, Waze, Coyotte, Moovit, Uber, BlaBlaCar…
 - localisation et horaires du travail, disponibilité des commerces, accès aux services de santé, rythmes scolaires…
 - Leurs possibilités d’adaptation est un levier d’action puissant et donc un champ important pour l’innovation.
 
-#### Les modes de gouvernance traditionnels de la mobilité sont à Repenser
+#### Les modes de gouvernance traditionnels de la mobilité sont à repenser
 
 - politiques fondées sur la plannification qui atteignent leurs limites 
 - les opérateurs de transports sont concurrencé par les acteurs du numérique 
@@ -213,6 +213,111 @@ Google Maps, Waze, Coyotte, Moovit, Uber, BlaBlaCar…
 
 ## Le numérique comme système d’organisation de la mobilité : adaptation de la mobilité (dématérialisation, information, partage)
 
+### L’adaptation des activités génératrices de déplacements
+
+- nouvelles manières de concevoir ces activités (travail mobile, service à distance, relai de proximité)
+
+#### Tous les champs d’activité de la vie quotidienne - travail, commerce, santé, formation…- sont reliés par la mobilité des personnes.
+
+- entreprises, associations, services publics, communautés locales, pôles d’activité : tous peuvent participer à l'organisation des territoires et à la mobilité des personnes
+
+#### Quelques exemples de trajectoires d’adaptation des activités pour organiser « la vie de proximité »
+
+##### Exemple 1 : Une organisation du travail collaborative et agile
+
+- transformation du management : liberté de localisation et d'horaire
+- limite nombre et durée des trajets domicile-travail 
+- agglo : peut promouvoir l'aménagement de lieux de travail nomade, d'espace de covoiturage, ajuster réglementation et tarif des transports
+
+##### Exemple 2 : Des réseaux de santé de proximité
+
+- couvrir l'essentiel des besoins courants en liaison avec la médecine spécialisée qui devient un 2e recours 
+
+##### Exemple 3 : Des tiers lieux pour activer les compétences individuelles et collectives
+
+- espaces de travail partagés
+
+##### Exemple 4 : Des centres multiservices de proximité
+
+- relai-colis 
+- coopération des acteurs territoriaux (la poste ...)
+
+##### Exemple 5 : Le commerce en ligne et le développement des services à domicile
+
+- surcroit d'activité de logistique urbaine (livraison dernier kilomètre)
+- espace commerciaux de proximité
+
+### L’accès à des plateformes et centrales d’information
+
+- infrastructure numérique qui distribue les services de mobilité, potentiellement enrichis
+
+#### Disposer d’une information sur les services disponibles.
+
+- Les plateformes d’information (multimodales, multi-réseaux, multiservices) sur les services de transport permettent à chacun de connaître en temps réel les services offerts (maps...), d'adapter leur trajet, de réserver/payer
+- organisation des déplacements et accès aux activités facilités
+- Elles ont pour caractéristiques communes :
+- l’utilisation intensive de données collectées et enrichies en permanence ;
+- des effets de réseau liés à la mise en relation de multiples acteurs (producteurs et consommateurs) ;
+- leur dynamique d’innovation pour rester une référence dominante dans un secteur.
+Les données utiles peuvent être rassemblées :
+- par des organismes publics (opérateurs et gestionnaires de services publics) ;
+- par des opérateurs de services privés de mobilité ou de communication, qui disposent et valorisent les données de leurs clients ;
+- par des gestionnaires de plateformes qui étendent leurs services au champ de la mobilité.
+
+#### Classer ces données en fonction des différents utilisateurs
+
+![classification_de_donnee_transport](img/classification_de_donnee_transport.jpg)
+
+#### Exploiter ces données : une multitude de services potentiels qui contribuent à la mobilité
+
+- Assistance au voyageur : information « brute » des voyageurs pour planifier leur mobilité, assistance au voyageur pour optimiser leur transport en terme de durée, prix, confort, information des voyageurs en temps réel sur l’accomplissement du transport, assistance au voyageur pour une configuration dynamique de sa mobilité ou information de sécurité ;
+- Optimisation des performances des systèmes de transport : adaptation de l’offre de transport, optimisation des coûts de transport, coopération dans la réalisation de transport, gestion globale des trafics, gestion des crises ;
+- Information des fabricants de véhicules et des constructeurs des infrastructures et service de transport, route intelligente ;
+- Alimentation en données d’autres secteurs intéressés à la mobilité : consommation, tourisme…
+
+#### Comment cela fonctionne ?
+
+- la collecte et la validation par les opérateurs de transport, selon un format interopérable.
+- l’agrégation des données par un opérateur numérique qui les rend accessibles de façon homogène.
+- la mise à disposition des utilisateurs finaux (usagers du transport) sous forme de services d’information commerciaux (tels que des calculateurs d’itinéraires, ou des conseils pratiques d’utilisation) ; ou d’opérateurs numériques qui développement des services à valeur ajoutée.
+
+![plateforme_et_centrale_de_mobilite](img/plateforme_et_centrale_de_mobilite.jpg)
+
+### Le partage des ressources
+
+- multiplier et diversifier l'usage des moyens de mobilité (véhicules, espace, logistique, connaissance)
+
+#### L’économie du partage se développe
+
+- utilisation partagé des biens (impact positif sur l'environnement)
+
+#### Le partage des ressources de mobilité
+
+- covoiturage interurbain (type blablacar)
+- covoiturage de proximité (type grenoble métropole)
+- covoiturage dans les zones peu denses
+- stationnement partagé
+- auto-partage en libre-service (voiture, vélo, trottinette)
+
+Chacun s'organise différemment
+
+### En résumé 
+
+- un développement des modes de vie mieux organisés dans des espaces de proximité, pour permettre à au plus grand nombre d’accéder aux activités et services essentiels de la vie quotidienne ; 
+- une organisation réinventée de systèmes de transport dans les bassins de vie, associant des services publics et privés connectés par des plateformes d’information multimodale ; 
+- une utilisation plus intensive du parc automobile, c'est-à-dire des véhicules moins nombreux et plus occupés, via des plateformes numériques de covoiturage et d’autopartage.
+
 ## L’innovation dans l’action : adaptation des mobilités par l’innovation, l’expérimentation et l’accompagnement du changement
+
+
+
+### Les catégories d’acteurs (ou niveaux d’intervention), comme moteurs de l’innovation
+
+### Les activités locales réinventent leur organisation de mobilité
+
+### Les autorités territoriales recomposent l’organisation des bassins de vie
+
+
+
 
 ## Renouveler les modes d’action publique : modes d’interventions des collectivités et de l'État.
